@@ -15,7 +15,7 @@ If you need help setting up SSH keys for your GitHub account, look [here](https:
 Move to the newly cloned repository directory and create a new branch for you to work on
 ```
 cd python-exercises
-git branch -b <your-name-here>
+git checkout -b <your-name-here>
 ```
 
 **!!Note!!**: In case of any issues with this repository, please contact [Kevin O'Brien](mailto:kevin.obrien@cup.lmu.de).
