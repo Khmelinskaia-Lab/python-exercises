@@ -19,7 +19,7 @@ def parse_file(input_filename: str) -> list[str]:
 
 
 def main() -> None:
-    word_list = parse_file("../data/hw1/Macbeth")  # can change Macbeth to any word file
+    word_list = parse_file("../../data/hw1/Macbeth")  # can change Macbeth to any word file
 
     """Insert code here to read word frequencies
 

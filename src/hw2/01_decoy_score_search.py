@@ -2,7 +2,7 @@ import re
 
 
 def main() -> None:
-    score_file = open("../data/hw2/docking_score.sc").readlines()
+    score_file = open("../../data/hw2/docking_score.sc").readlines()
 
     """Insert code here to search for decoy scores
 
