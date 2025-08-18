@@ -35,31 +35,3 @@ class Cylinder:
     #    This class file does not need a main function.
     #    """
 
-    def __str__(self) -> str:
-        #    """This function is used to print details about the cylinder.
-        #       This returns the radius and height when print(Cylinder()) is
-        #       called.
-        #       """
-        ...
-
-    def get_radius(self) -> float:
-        ...
-
-    def get_height(self) -> float:
-        ...
-
-    def set_radius(self, r: float) -> None:
-        ...
-
-    def set_height(self, h: float) -> None:
-        ...
-
-    def get_base_SA(self) -> float:
-        ...
-
-    def get_curved_SA(self) -> float:
-        ...
-
-    def get_total_SA(self) -> float:
-        ...
-
